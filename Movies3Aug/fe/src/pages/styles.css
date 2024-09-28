@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.single-seat {
+  margin-right: 10px !important;
+  margin-left: 10px !important;
+  border-radius: 10px !important;
+  background: #e0e0e0 !important;
+  max-width: 30px !important;
+  min-width: 30px !important;
+  padding: 5px !important;
+  font-size: 11px !important;
+}
+.active-single-seat {
+  margin-right: 10px !important;
+  margin-left: 10px !important;
+  border-radius: 10px !important;
+  background: #38ff26 !important;
+  color: #ffffff !important;
+  max-width: 30px !important;
+  min-width: 30px !important;
+  padding: 5px !important;
+  font-size: 11px !important;
+}
+.not-available {
+  margin-right: 10px !important;
+  margin-left: 10px !important;
+  border-radius: 10px !important;
+  background: #313131 !important;
+  color: #ffffff !important;
+  max-width: 30px !important;
+  min-width: 30px !important;
+  padding: 5px !important;
+  font-size: 11px !important;
+  cursor: default !important;
+}
+.blank-seat {
+  border: none !important;
+  cursor: default !important;
+  margin-right: 10px !important;
+  margin-left: 10px !important;
+  border-radius: 10px !important;
+  max-width: 30px !important;
+  min-width: 30px !important;
+  padding: 5px !important;
+}
